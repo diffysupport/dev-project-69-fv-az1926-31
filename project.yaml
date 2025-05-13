@@ -1,5 +1,5 @@
 basic:
-    name: 'Considine, Kohler and Schneider'
+    name: Crist-Hackett
     environments:
         production: 'https://google.com'
         staging: ''
